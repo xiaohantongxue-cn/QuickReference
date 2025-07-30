@@ -4,6 +4,6 @@
     "preview_urls": false,
     "workers_dev": false,
     "assets": {
-      "directory": "./dist"
+      "directory": "./public"
     }
   }
